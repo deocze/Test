@@ -1,0 +1,23 @@
+body{
+    background-image: url("Kenahearts.jpg");
+}    
+p{
+color: white;    
+font-weight: bold;
+text-align: center;
+font-size: 2em;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.a{
+    color: black;
+    font-size: 3em;
+}
+img{
+    border: 20px;
+    border-style: solid;
+}
